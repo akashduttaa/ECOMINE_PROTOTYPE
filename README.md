@@ -101,6 +101,8 @@ http://localhost:3000
 ## 📸 Preview
 
 *(Add screenshots here to showcase UI and features)*
+<img width="1366" height="768" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/df1a8ae6-56a8-4350-a1a2-fb5e25ef361d" />
+
 
 ---
 
