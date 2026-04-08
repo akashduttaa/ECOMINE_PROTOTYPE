@@ -100,9 +100,20 @@ http://localhost:3000
 
 ## 📸 Preview
 
-*(Add screenshots here to showcase UI and features)*
-<img width="1366" height="768" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/df1a8ae6-56a8-4350-a1a2-fb5e25ef361d" />
+<img width="1366" height="679" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/8d0dc160-3120-4c64-9194-757b08e1f3af" />
 
+<img width="1366" height="690" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/6370074e-ce35-478c-983b-8b2d19d7fcab" />
+
+<img width="1366" height="664" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/af4a2fca-9a2d-484b-9bda-83e4f34ab3f7" />
+
+<img width="1366" height="675" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/80aeb7f5-a996-4e78-9bef-e4e29d13a66e" />
+
+
+<img width="1366" height="692" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/65bbefec-e96a-423b-a3e5-bac0f76c844f" />
+
+<img width="1366" height="683" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/7ddedb10-da27-4f5c-8f3e-7e38ef51a664" />
+
+<img width="1366" height="696" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/9b9dc326-fc08-41ec-bd45-0615f38202c6" />
 
 ---
 
