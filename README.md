@@ -63,13 +63,11 @@ ECOMINE explores the intersection of **blockchain technology, artificial intelli
 
 ## 📁 Project Structure
 
-
-
-ECOMINE_PROTOTYPE/
-├── frontend/    → Next.js application (UI + logic)
-├── backend/     → APIs and server-side logic
-├── contracts/   → Smart contracts (Solidity)
-└── ai-service/  → AI/ML services (Python)
+    ECOMINE_PROTOTYPE/
+      ├── frontend/    → Next.js application (UI + logic)
+      ├── backend/     → APIs and server-side logic
+      ├── contracts/   → Smart contracts (Solidity)
+      └── ai-service/  → AI/ML services (Python)
 
 
 
