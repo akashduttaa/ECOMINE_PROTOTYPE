@@ -71,6 +71,14 @@ ECOMINE_PROTOTYPE/
 ├── contracts/   → Smart contracts (Solidity)
 └── ai-service/  → AI/ML services (Python)
 
+
+
+
+
+
+
+
+
 ---
 
 ## ⚙️ Getting Started
